@@ -165,7 +165,7 @@
             "data_network_ids": [
               "network-16",
               "dvportgroup-24",
-              "dvportgroup-24"
+              "dvportgroup-24"],
             "vc_username": "administrator@madhu.local",
             "vc_password": "myPassword1!",
             "compute": "Management",
